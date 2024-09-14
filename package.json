@@ -1,0 +1,14 @@
+{
+  "name": "userauth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omer Afzaal",
+  "license": "ISC",
+  "description": "An Attempt to replicate the Production Grade User-Authentication using MERN stack",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
